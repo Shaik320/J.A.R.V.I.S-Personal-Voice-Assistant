@@ -43,7 +43,7 @@ This project brings together speech recognition, text-to-speech, web browsing, a
 git clone https://github.com/your-username/JARVIS-Voice-Assistant.git
 cd JARVIS-Voice-Assistant
 
-2. Install requirements:
+Install requirements:
 
 ```bash
 pip install -r requirements.txt
