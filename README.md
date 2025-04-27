@@ -2,8 +2,6 @@
 
 # 🧠 J.A.R.V.I.S - Personal Voice Assistant
 
-![JARVIS AI](https://upload.wikimedia.org/wikipedia/en/3/32/JARVIS_Iron_Man.png)
-
 ---
 Welcome to **J.A.R.V.I.S (Just A Rather Very Intelligent System)** — your very own personal AI voice assistant built in Python!  
 This project brings together speech recognition, text-to-speech, web browsing, and system control features.
